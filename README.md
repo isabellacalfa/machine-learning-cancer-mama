@@ -2,4 +2,6 @@
 
 <b> Objetivo: </b> Identificação de sobrevivência em pacientes com câncer de mama.
 
-<b> Informações Adicionais: </b> As informações do trabalho, como dataset e análises, estão no PDF.
+<b> Dataset: </b> haberman.data (fonte no PDF). 
+
+<b> Informações Adicionais: </b> As informações do trabalho estão no arquivo PDF.
